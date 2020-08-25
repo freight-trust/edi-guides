@@ -1,0 +1,8 @@
+{
+  "name": "edi-guides",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/freight-trust/edi-guides.git",
+  "author": "sam <sam@freighttrust.com>",
+  "license": "MIT"
+}
